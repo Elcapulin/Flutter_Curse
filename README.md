@@ -6,8 +6,8 @@ Resourses &amp; markdown text guides  and config toInstall &amp; config setup fl
  
 1. [Flutter (SDK) Install & Config setup](#id1)
 	* Flutter (SDK)
-		* Chocolatey  (Flutter)
-			* Android Studio (Flutter)
+	* Chocolatey  (Flutter)
+	* Android Studio (Flutter)
 
    
 2. [Segundo apartado](#id2)
